@@ -13,6 +13,16 @@
         echo "Hello world.this created using php";
 
         ?>
+        <?php
+        $var1=54;
+        $var2=78;
+        echo "<br>";
+        echo $var1;
+        echo "<br>";
+        echo $var2;
+        echo "<br>";
+        echo "sum:".($var1+$var2);
+         ?>
     </div>
 </body>
 </html>
